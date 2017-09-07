@@ -1,0 +1,5 @@
+this text is written entirely in uppercase.
+
+there isn't any lower case text in the entire file.
+
+exciting isn't it?
